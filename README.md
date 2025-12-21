@@ -1,6 +1,6 @@
 # Welcome to My Page👋
 * **Nationality**: South Korea 🇰🇷
-* **Work**: Indie Game Technical Artist (UNITY)
+* **Work**: Indie Game Dev (UNITY)
 * **Email**: geonwoo100422@gmail.com
 * **GitHub**: https://github.com/Chicken-Triceps/
 
