@@ -1,0 +1,33 @@
+name: Generate Snake
+
+# 언제 실행될지 설정
+on:
+  # 매일 자정(00:00)에 자동 실행
+  schedule:
+    - cron: "0 0 * * *" 
+  
+  # 수동으로도 실행할 수 있게 설정 (테스트용)
+  workflow_dispatch:
+
+# 실제 할 일
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
