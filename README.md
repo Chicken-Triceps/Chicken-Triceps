@@ -28,7 +28,7 @@
 
 
 # Projects
-### FATALDRAW(2025)
+### BETDOWN:FATALDRAW (2026)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9475ddb3-4a78-417d-8f69-312cca10c537" />
 
 
