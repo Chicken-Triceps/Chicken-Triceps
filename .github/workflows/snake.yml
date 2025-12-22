@@ -1,31 +1,29 @@
 name: Generate Snake
 
-# 언제 실행될지 설정
 on:
-  # 매일 자정(00:00)에 자동 실행
   schedule:
-    - cron: "0 0 * * *" 
-  
-  # 수동으로도 실행할 수 있게 설정 (테스트용)
-  workflow_dispatch:
+    - cron: "0 0 * * *" # 매일 자정 실행
+  workflow_dispatch: # 수동 실행 가능
 
-# 실제 할 일
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
 
+      # 1. 뱀 애니메이션 생성 (여기서 아이디를 직접 지정)
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          # 아래 Chicken-Triceps 부분을 본인 아이디로 확인하세요!
+          github_user_name: Chicken-Triceps
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: generate-snake-game-from-github-contribution-grid
-        uses: Platane/snk@v3.4.1
+      # 2. 생성된 파일을 'output' 브랜치에 업로드 (들여쓰기 주의!)
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
