@@ -3,6 +3,7 @@
 * **Work**: Indie Game Dev (UNITY)
 * **Email**: geonwoo100422@gmail.com
 * **GitHub**: https://github.com/Chicken-Triceps/
+* **Organization**: https://bawkystudio.com/en/main
 
 <br>
 
