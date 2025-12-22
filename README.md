@@ -3,19 +3,20 @@
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT_ME-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geonwoo100422@gmail.com)
 [![Website](https://img.shields.io/badge/BAWKY_STUDIO-WEBSITE-black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.bawkystudio.com/en/main)
 
-# Welcome to My Page👋
+# Overview
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/beb438dd-0402-4218-89dc-7bfc746e8e0f" />
+
 * **Nationality**: South Korea 🇰🇷
-* **Work**: Indie Game Dev (UNITY)
+* **Work**: Indie Game Developer (UNITY)
 * **Email**: geonwoo100422@gmail.com
 * **GitHub**: https://github.com/Chicken-Triceps/
 * **Organization**: https://bawkystudio.com/en/main
   
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/beb438dd-0402-4218-89dc-7bfc746e8e0f" />
 
 
-<br>
 
 # Education
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d9154938-7623-4cdb-ac54-a94646e1858f" />
 
 * **Myongji University** (Seoul, South Korea)
     * Majoring in **Convergence Software Data Technology**
@@ -24,7 +25,11 @@
 * Yangji High School (Ansan, South Korea)
     * Graduated in Jan, 2020
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d9154938-7623-4cdb-ac54-a94646e1858f" />
+
+
+# Projects
+### FATALDRAW(2025)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9475ddb3-4a78-417d-8f69-312cca10c537" />
 
 
 
