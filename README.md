@@ -12,6 +12,11 @@
 </div>
 -->
 
+<!-- 노익스 움짤 -->
+<div align="center">
+  <img src="https://github.com/Chicken-Triceps/Chicken-Triceps/blob/main/no-excuses-gif-2025-12-23.gif?raw=true" alt="No Excuses" width="600" />
+</div>
+
 
 
 <!-- 잔디 뱀 애니메이션
