@@ -8,7 +8,9 @@
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT_ME-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geonwoo100422@gmail.com)
 [![Website](https://img.shields.io/badge/BAWKY_STUDIO-WEBSITE-black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.bawkystudio.com/en/main)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chicken-Triceps&layout=compact&theme=dark)
+<img src="https://github.com/Chicken-Triceps/Chicken-Triceps/blob/main/profile-summary-card-output/dark/0-profile-details.svg" alt="Profile Details" />
+
+![Top Langguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chicken-Triceps&layout=compact&theme=dark)
 
 # Overview
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/beb438dd-0402-4218-89dc-7bfc746e8e0f" />
