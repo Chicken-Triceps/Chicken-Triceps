@@ -24,11 +24,11 @@
 </div>
   -->
 
-<!-- 폰허브 움짤 -->
+<!-- 폰허브 움짤
 <div align="center">
-  <img src="https://github.com/Chicken-Triceps/Chicken-Triceps/blob/main/github3.gif?raw=true" alt="No Excuses" width="300" />
+  <img src="https://github.com/Chicken-Triceps/Chicken-Triceps/blob/main/github4.gif?raw=true" alt="No Excuses" width="300" />
 </div>
-
+ -->
 
 
 
