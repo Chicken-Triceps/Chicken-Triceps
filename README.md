@@ -24,11 +24,13 @@
 </div>
   -->
 
-<!-- 폰허브 움짤
+<!-- 폰허브 움짤 -->
 <div align="center">
-  <img src="https://github.com/Chicken-Triceps/Chicken-Triceps/blob/main/github3.gif?raw=true" alt="No Excuses" width="600" />
+  <img src="https://github.com/Chicken-Triceps/Chicken-Triceps/blob/main/github3.gif?raw=true" alt="No Excuses" width="300" />
 </div>
- -->
+
+
+
 
 <!-- 잔디 뱀 애니메이션
 <picture>
