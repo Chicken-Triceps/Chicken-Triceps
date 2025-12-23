@@ -1,12 +1,18 @@
 <!-- No Excuses 타이핑 애니메이션
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=F7EF27&background=21FF3600&vCenter=true&width=435&lines=NO+EXCUSES)](https://git.io/typing-svg)
 -->
+
 <!-- Welcome 상단 배너
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20My%20Profile&fontSize=90)
 -->
+
+<!-- 노익스 이미지
 <div align="center">
   <img width="512" height="360" alt="NoEx" src="https://github.com/user-attachments/assets/fcb37759-e38e-47a3-a85e-c93c49d77bbb" />
 </div>
+-->
+
+
 
 <!-- 잔디 뱀 애니메이션
 <picture>
