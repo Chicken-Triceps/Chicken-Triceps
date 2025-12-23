@@ -56,33 +56,55 @@
 
 
 
-# Overview
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/beb438dd-0402-4218-89dc-7bfc746e8e0f" />
+<h3>Overview</h3>
+<table>
+  <tr>
+    <td width="120" align="center">
+      <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/beb438dd-0402-4218-89dc-7bfc746e8e0f" />
+    </td>
+    <td>
+      - Nationality:</b> South Korea<br>
+      - Work:</b> Indie Game Developer (Unity)<br>
+      - Email:</b> <a href="mailto:geonwoo100422@gmail.com">geonwoo100422@gmail.com</a><br>
+      - Organization:</b> <a href="https://www.bawkystudio.com/en/main">BAWKY STUDIO</a>
+    </td>
+  </tr>
+</table>
 
-* **Nationality**: South Korea 🇰🇷
-* **Work**: Indie Game Developer (UNITY)
-* **Email**: geonwoo100422@gmail.com
-* **GitHub**: https://github.com/Chicken-Triceps/
-* **Organization**: https://bawkystudio.com/en/main
-  
+<h3>Education</h3>
+<table>
+  <tr>
+    <td width="120" align="center">
+      <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d9154938-7623-4cdb-ac54-a94646e1858f" />
+    </td>
+    <td>
+      <b>Myongji University</b> (Seoul, South Korea)<br>
+      - Majoring in <b>Convergence Software Data Technology</b><br>
+      - <a href="https://www.mju.ac.kr">MJU Data Science Major</a><br>
+      - <i>Expected to graduate in Aug, 2026</i><br>
+      <br>
+      <b>Yangji High School</b> (Ansan, South Korea)<br>
+      - <i>Graduated in Jan, 2020</i>
+    </td>
+  </tr>
+</table>
 
-
-
-# Education
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d9154938-7623-4cdb-ac54-a94646e1858f" />
-
-* **Myongji University** (Seoul, South Korea)
-    * Majoring in **Convergence Software Data Technology**
-    * https://www.mju.ac.kr/mjukr/10205/subview.do
-    * Expected to graduate in Aug, 2026
-* Yangji High School (Ansan, South Korea)
-    * Graduated in Jan, 2020
-
-
-
-# Projects
-### BETDOWN:FATALDRAW (2026)
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9475ddb3-4a78-417d-8f69-312cca10c537" />
+<h3>Projects</h3>
+<table>
+  <tr>
+    <td width="500" align="center">
+      <img width="480" alt="BETDOWN Image" src="https://github.com/user-attachments/assets/9475ddb3-4a78-417d-8f69-312cca10c537" />
+    </td>
+    <td>
+      <h3>BETDOWN: FATALDRAW</h3>
+      <b>Genre:</b> 2D, Shooting, Action, Roguelike<br>
+      <b>Develop:</b> BAWKY STUDIO</a><br>
+      <b>Release Date:</b> 2026 (Expected)<br>
+      <b>Platform:</b> PC (Steam)<br>
+      <b>OS:</b> Windows
+    </td>
+  </tr>
+</table>
 
 
 
