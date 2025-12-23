@@ -20,7 +20,7 @@
 
  <!-- 노익스 움짤 2  -->
 <div align="center">
-  <img src="https://github.com/Chicken-Triceps/Chicken-Triceps/blob/main/no-excuses-crop.gif?raw=true" alt="No Excuses" width="600" />
+  <img src="https://github.com/Chicken-Triceps/Chicken-Triceps/blob/main/no-excuses-glitch-crop.gif?raw=true" alt="No Excuses" width="1000" />
 </div>
 
 
