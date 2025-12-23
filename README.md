@@ -1,21 +1,35 @@
+<!-- No Excuses 타이핑 애니메이션
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=F7EF27&background=21FF3600&vCenter=true&width=435&lines=NO+EXCUSES)](https://git.io/typing-svg)
+-->
+<!-- Welcome 상단 배너
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20My%20Profile&fontSize=90)
+-->
+<div align="center">
+  <img width="512" height="360" alt="NoEx" src="https://github.com/user-attachments/assets/fcb37759-e38e-47a3-a85e-c93c49d77bbb" />
+</div>
 
-
-
+<!-- 잔디 뱀 애니메이션
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Chicken-Triceps/Chicken-Triceps/blob/output/github-contribution-grid-snake-dark.svg">
   <img alt="Snake animation" src="https://github.com/Chicken-Triceps/Chicken-Triceps/blob/output/github-contribution-grid-snake.svg">
 </picture>
+-->
 
+<div align="center">
+  
 ![Unity](https://img.shields.io/badge/Unity-6000.0.29f1-black?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-Scripting-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT_ME-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geonwoo100422@gmail.com)
 [![Website](https://img.shields.io/badge/BAWKY_STUDIO-WEBSITE-black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.bawkystudio.com/en/main)
 
+</div>
+
 <img src="https://github.com/Chicken-Triceps/Chicken-Triceps/blob/main/profile-summary-card-output/dark/0-profile-details.svg?raw=true" alt="Profile Details" />
   
   <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chicken-Triceps&layout=compact&theme=dark&hide_border=true&bg_color=181818&hide_title=true" alt="Top Languages" />
 </div>
+
+
 
 
 # Overview
