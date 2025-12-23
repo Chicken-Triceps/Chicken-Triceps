@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Chicken-Triceps/Chicken-Triceps/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake animation" src="https://github.com/Chicken-Triceps/Chicken-Triceps/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
 ![Unity](https://img.shields.io/badge/Unity-6000.0.29f1-black?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-Scripting-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT_ME-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geonwoo100422@gmail.com)
