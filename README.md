@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=F7EF27&background=21FF3600&vCenter=true&width=435&lines=NO+EXCUSES)](https://git.io/typing-svg)
+
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Chicken-Triceps/Chicken-Triceps/blob/output/github-contribution-grid-snake-dark.svg">
   <img alt="Snake animation" src="https://github.com/Chicken-Triceps/Chicken-Triceps/blob/output/github-contribution-grid-snake.svg">
@@ -12,6 +16,7 @@
   
   <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chicken-Triceps&layout=compact&theme=dark&hide_border=true&bg_color=181818&hide_title=true" alt="Top Languages" />
 </div>
+
 
 # Overview
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/beb438dd-0402-4218-89dc-7bfc746e8e0f" />
