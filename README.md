@@ -47,10 +47,10 @@
 [![Website](https://img.shields.io/badge/BAWKY_STUDIO-WEBSITE-black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.bawkystudio.com/en/main)
 
 </div>
-
 <img src="https://github.com/Chicken-Triceps/Chicken-Triceps/blob/main/profile-summary-card-output/dark/0-profile-details.svg?raw=true" alt="Profile Details" />
-  
+  <!--
   <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chicken-Triceps&layout=compact&theme=dark&hide_border=true&bg_color=181818&hide_title=true" alt="Top Languages" />
+  -->
 </div>
 
 
