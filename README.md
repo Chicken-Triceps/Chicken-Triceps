@@ -64,6 +64,7 @@
     </td>
     <td>
       - Nationality:</b> South Korea<br>
+      - Birth: Sep 9, 2001
       - Work:</b> Indie Game Developer (Unity)<br>
       - Email:</b> <a href="mailto:geonwoo100422@gmail.com">geonwoo100422@gmail.com</a><br>
       - Organization:</b> <a href="https://www.bawkystudio.com/en/main">BAWKY STUDIO</a>
