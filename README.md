@@ -29,6 +29,13 @@
   <img src="https://github.com/Chicken-Triceps/Chicken-Triceps/blob/main/github4.gif?raw=true" alt="No Excuses" width="300" />
 </div>
 
+<!-- FATALDRAW 카드 -->
+<div align="center">
+  <a href="https://github.com/DevBawky/FATALDRAW_Github_Profile_Details.git">
+      <img src="https://github.com/{Chicken-Triceps}/{Chicken-Triceps}/raw/output/stats.svg" width="600" alt="FATALDRAW" />
+  </a>
+</div>
+
 
 
 
