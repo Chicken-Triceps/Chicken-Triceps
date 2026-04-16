@@ -24,12 +24,12 @@
 </div>
   -->
 
-<!-- 폰허브 움짤 -->
+<!-- 폰(깃)허브 움짤 -->
 <div align="center">
   <img src="https://github.com/Chicken-Triceps/Chicken-Triceps/blob/main/github4.gif?raw=true" alt="No Excuses" width="300" />
 </div>
 
-<!-- FATALDRAW 카드 -->
+<!-- FATALDRAW 현상수배카드 -->
 <div align="center">
   <a href="https://github.com/DevBawky/FATALDRAW_Github_Profile_Details.git">
       <img src="https://github.com/Chicken-Triceps/Chicken-Triceps/raw/output/stats.svg" width="600" alt="FATALDRAW" />
@@ -89,7 +89,7 @@
       <b>Myongji University</b> (Seoul, South Korea)<br>
       - Majoring in <b>Convergence Software Data Technology</b><br>
       - <a href="https://www.mju.ac.kr">MJU Data Science Major</a><br>
-      - <i>Expected to graduate in Aug, 2026</i><br>
+      - <i>Expected to graduate in Feb, 2027</i><br>
       <br>
       <b>Yangji High School</b> (Ansan, South Korea)<br>
       - <i>Graduated in Jan, 2020</i>
@@ -107,7 +107,7 @@
       <h3>BETDOWN: FATALDRAW</h3>
       <b>Genre:</b> 2D, Shooting, Action, Roguelike<br>
       <b>Develop:</b> BAWKY STUDIO</a><br>
-      <b>Release Date:</b> 2026 (Expected)<br>
+      <b>Release Date:</b> 2027 (Expected)<br>
       <b>Platform:</b> PC (Steam)<br>
       <b>OS:</b> Windows
     </td>
