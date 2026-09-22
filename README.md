@@ -26,13 +26,11 @@
 
 <!-- 폰(깃)허브 움짤 -->
 
-<!--
 
 <div align="center">
   <img src="https://github.com/Chicken-Triceps/Chicken-Triceps/blob/main/github4.gif?raw=true" alt="No Excuses" width="300" />
 </div>
 
--->
 
 <!-- FATALDRAW 현상수배카드 -->
 <div align="center">
